@@ -1,5 +1,5 @@
 ### Hi there 👋, my name is Mayuri
-#### I am in full stack developement trying 
+#### I am in full stack developement training 
 ![I am in full stack developement trying ](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
 
 I have 4 years of experience on web design & development 
