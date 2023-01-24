@@ -8,7 +8,7 @@ My frontend project : https://isa-6-front-end-project-amber.vercel.app/
 
 My frontend group project : https://shopping-website-project.vercel.app/
 
-Skills: REACT / TypeScript/ Redux / HTML / CSS / Bootstrap / Rest API / SQL
+Skills: React / TypeScript/ Redux / HTML / CSS / Bootstrap / Rest API / SQL
 
 - 🌱 I’m currently learning Full Stack Development  
 - 👯 I’m looking to collaborate on GitHub  
