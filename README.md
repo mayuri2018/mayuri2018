@@ -5,7 +5,8 @@
 I have 4 years of experience on web design & development 
 
 My frontend project : https://isa-6-front-end-project-amber.vercel.app/
-my frontend group project : https://shopping-website-project.vercel.app/
+
+My frontend group project : https://shopping-website-project.vercel.app/
 
 Skills: REACT / TypeScript/ Redux / HTML / CSS / Bootstrap / Rest API / SQL
 
